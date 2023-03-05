@@ -6,9 +6,5 @@ login and registration page
 ![CSS](https://img.shields.io/badge/-CSS-E34F26?logo=css&logoColor=white&style=flat)
 
 
-:php: index.php
-:html: index.html
-:javascript: index.js
-:css: index.css
 
 
